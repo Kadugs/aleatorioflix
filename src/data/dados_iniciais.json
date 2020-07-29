@@ -1,75 +1,75 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Animações",
+      "link": "https://pt.wikipedia.org/wiki/Animação",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Minhas animações favoritos",
+        "url": "youtube.com"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=QTt7301PR5k"
+          "titulo": "Coisas aleatórias",
+          "url": "https://www.youtube.com/watch?v=D4L0OkSrsI8"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "When The Boss Battle Has Way Too Many Phases",
+          "url": "https://www.youtube.com/watch?v=N3MNLfxNNIY"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Filmbilder and Friends - Nuggets",
+          "url": "https://www.youtube.com/watch?v=HUngLgGRJpo"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Double King",
+          "url": "https://www.youtube.com/watch?v=w_MSFkZHNi4"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Alan Becker Channel Trailer",
+          "url": "https://www.youtube.com/watch?v=iyIcujtB5UQ"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "God is Coming: Cultus",
+          "url": "https://www.youtube.com/watch?v=XebjI56eDa4"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Kitbull",
+          "url": "https://www.youtube.com/watch?v=AZS5cgybKcI&t=473s"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "The Maker",
+          "url": "https://www.youtube.com/watch?v=YDXOioU_OKM&t=33s"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Músicas",
+      "cor": "#800080",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Músicas",
+        "url": "https://pt.wikipedia.org/wiki/Música"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "blink-182 - Darkside",
+          "url": "https://www.youtube.com/watch?v=4cbSPNZryzo"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "The Strokes - The Adults Are Talking",
+          "url": "https://www.youtube.com/watch?v=o4qsjmLxhow"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Ghost - Square Hammer",
+          "url": "https://www.youtube.com/watch?v=VqoyKzgkqR4"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Country Roads but it's CYBERPUNK",
+          "url": "https://www.youtube.com/watch?v=u1_dy1EmV6w"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Gorillaz - PAC-MAN ft. ScHoolboy Q",
+          "url": "https://www.youtube.com/watch?v=G-7U-FDql1A"
         }
       ]
     },
